@@ -469,4 +469,6 @@ https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 https://msh0320.stream.seeweb.it/live/tv7.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videonola-dibtmrfa4k9a.png",VideoNola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/iuniortv.png",IUNIOR TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 
