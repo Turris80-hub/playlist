@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/it.xml.gz"
 #EXTINF:-1 tvg-id="it500008cb" tvg-name="" group-title="NEWS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20260113T032823SQUARE.png",3BMETEO
 https://jmp2.uk/stvp-IT500008CB
 #EXTINF:-1 tvg-id="itba33000374g" tvg-name="" group-title="INTRATTENIMENTO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png",5-MINUTI CREATIVI
