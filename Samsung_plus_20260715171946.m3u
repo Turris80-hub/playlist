@@ -469,7 +469,7 @@ https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 https://msh0320.stream.seeweb.it/live/tv7.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videonola-dibtmrfa4k9a.png",VideoNola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/iuniortv.png",IUNIOR TV
+#EXTINF:-1 group-title="Cartoni" tvg-logo="https://www.chiavarincosplay.it/wp-content/uploads/2024/09/iunior-tv.jpg",IUNIOR TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="320" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="FILM",Pluto TV Notti di Passione
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
