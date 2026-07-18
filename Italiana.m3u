@@ -361,8 +361,10 @@ https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:-1 group-title="General",SPORTCHANNEL214
 https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/chunklist_w1022297143.m3u8
-#EXTINF:-1 group-title="General",10 Canale Dieci (Italia) (https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/.m3u8
-https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 group-title="General",10 Canale Dieci
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/.m3u8
+#EXTINF:-1 group-title="General",telecitylombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/telegenova.png",teleGenova
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/retemia.png",ReteMia
