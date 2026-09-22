@@ -1,0 +1,746 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="7197" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/1_0_16_1C1D_384_110_EEEE0000_0_0_0.png" tvg-id="4097:0:16:1C1D:384:110:EEEE0000:0:0:0:" tvg-name="SUPERSIX TV",SUPERSIX TV
+#EXTVLCOPT:program=7197
+http://10.6.228.1:8001/4097:0:16:1C1D:384:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="257" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:101:1:1:EEEE0000:0:0:0:" tvg-name="Iunior Tv",Iunior Tv
+#EXTVLCOPT:program=257
+http://10.6.228.1:8001/4097:0:1:101:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="66" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:42:204:1D:EEEE0000:0:0:0:" tvg-name="man-ga",man-ga
+#EXTVLCOPT:program=66
+http://10.6.228.1:8001/4097:0:16:42:204:1D:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="260" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:104:1:1:EEEE0000:0:0:0:" tvg-name="rtcquartarete",rtcquartarete
+#EXTVLCOPT:program=260
+http://10.6.228.1:8001/4097:0:1:104:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="5201" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:1451:41A:110:EEEE0000:0:0:0:" tvg-name="antennasud",antennasud
+#EXTVLCOPT:program=5201
+http://10.6.228.1:8001/4097:0:19:1451:41A:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Antenna Sud 92 (Extra)",Antenna Sud 92 (Extra)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="antennasud Sport1",antennasud Sport1
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="264" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:108:1:1:EEEE0000:0:0:0:" tvg-name="studio100",studio100
+#EXTVLCOPT:program=264
+http://10.6.228.1:8001/4097:0:1:108:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="265" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:109:1:1:EEEE0000:0:0:0:" tvg-name="teleregione",teleregione
+#EXTVLCOPT:program=265
+http://10.6.228.1:8001/4097:0:1:109:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telesveva",Telesveva
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="16" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:10:1:110:EEEE0000:0:0:0:" tvg-name="telenorba",telenorba
+#EXTVLCOPT:program=16
+http://10.6.228.1:8001/4097:0:19:10:1:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="5202" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:1452:41A:110:EEEE0000:0:0:0:" tvg-name="telebari",telebari
+#EXTVLCOPT:program=5202
+http://10.6.228.1:8001/4097:0:19:1452:41A:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="269" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:10D:1:1:EEEE0000:0:0:0:" tvg-name="TELEFOGGIA",TELEFOGGIA
+#EXTVLCOPT:program=269
+http://10.6.228.1:8001/4097:0:1:10D:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="274" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:112:1:1:EEEE0000:0:0:0:" tvg-name="CANALE 2 ALTAMURA",CANALE 2 ALTAMURA
+#EXTVLCOPT:program=274
+http://10.6.228.1:8001/4097:0:1:112:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="81" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:51:8800:217C:DDE0000:0:0:0:" tvg-name="TELERAMA",TELERAMA
+#EXTVLCOPT:program=81
+http://10.6.228.1:8001/4097:0:1:51:8800:217C:DDE0000:0:0:0:
+#EXTINF:-1 tvg-chno="87" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:57:8800:217C:DDE0000:0:0:0:" tvg-name="CANALE 7",CANALE 7
+#EXTVLCOPT:program=87
+http://10.6.228.1:8001/4097:0:1:57:8800:217C:DDE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="BariNews",BariNews
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="4003" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:FA3:40E1:217C:5A0000:0:0:0:" tvg-name="TELERADIOPACE 1",TELERADIOPACE 1
+#EXTVLCOPT:program=4003
+http://10.6.228.1:8001/4097:0:1:FA3:40E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="272" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:110:1:1:EEEE0000:0:0:0:" tvg-name="Canale10",Canale10
+#EXTVLCOPT:program=272
+http://10.6.228.1:8001/4097:0:1:110:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="16992" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:4260:2B68:13E:820000:0:0:0:" tvg-name="CANALE 21 EXTRA",CANALE 21 EXTRA
+#EXTVLCOPT:program=16992
+http://10.6.228.1:8001/4097:0:19:4260:2B68:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="277" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:115:1:1:EEEE0000:0:0:0:" tvg-name="eurotv",eurotv
+#EXTVLCOPT:program=277
+http://10.6.228.1:8001/4097:0:1:115:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="280" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:118:1:1:EEEE0000:0:0:0:" tvg-name="RETE ORO",RETE ORO
+#EXTVLCOPT:program=280
+http://10.6.228.1:8001/4097:0:1:118:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="281" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:119:1:1:EEEE0000:0:0:0:" tvg-name="RETESOLE",RETESOLE
+#EXTVLCOPT:program=281
+http://10.6.228.1:8001/4097:0:1:119:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="282" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:11A:1:1:EEEE0000:0:0:0:" tvg-name="RETETV",RETETV
+#EXTVLCOPT:program=282
+http://10.6.228.1:8001/4097:0:1:11A:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="16989" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:425D:2B68:13E:820000:0:0:0:" tvg-name="RETEVENETA",RETEVENETA
+#EXTVLCOPT:program=16989
+http://10.6.228.1:8001/4097:0:19:425D:2B68:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="284" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:11C:1:1:EEEE0000:0:0:0:" tvg-name="RTL 102.5 NAPULE'",RTL 102.5 NAPULE'
+#EXTVLCOPT:program=284
+http://10.6.228.1:8001/4097:0:1:11C:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2808" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:AF8:28E1:217C:5A0000:0:0:0:" tvg-name="TELECHIARA",TELECHIARA
+#EXTVLCOPT:program=2808
+http://10.6.228.1:8001/4097:0:19:AF8:28E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="4008" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:FA8:40E1:217C:5A0000:0:0:0:" tvg-name="TELECOLOR",TELECOLOR
+#EXTVLCOPT:program=4008
+http://10.6.228.1:8001/4097:0:1:FA8:40E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="292" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:124:1:1:EEEE0000:0:0:0:" tvg-name="TELEMANTOVA",TELEMANTOVA
+#EXTVLCOPT:program=292
+http://10.6.228.1:8001/4097:0:1:124:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="9812" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:2654:98E1:217C:5A0000:0:0:0:" tvg-name="TELEMIA",TELEMIA
+#EXTVLCOPT:program=9812
+http://10.6.228.1:8001/4097:0:1:2654:98E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="295" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:127:1:1:EEEE0000:0:0:0:" tvg-name="TELEROMAGNA",TELEROMAGNA
+#EXTVLCOPT:program=295
+http://10.6.228.1:8001/4097:0:1:127:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="296" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:128:1:1:EEEE0000:0:0:0:" tvg-name="TELETRICOLORE",TELETRICOLORE
+#EXTVLCOPT:program=296
+http://10.6.228.1:8001/4097:0:1:128:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Web Rete Sud",Web Rete Sud
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="SPORTCHANNEL214",SPORTCHANNEL214
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telecolore",Telecolore
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="tele-one",tele-one
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="telea1",telea1
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="tele jonio",tele jonio
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="299" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:12B:1:1:EEEE0000:0:0:0:" tvg-name="Rete Mia",Rete Mia
+#EXTVLCOPT:program=299
+http://10.6.228.1:8001/4097:0:1:12B:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="tv7",tv7
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="lombardiatv",lombardiatv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="reggiotv",reggiotv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Rete55",Rete55
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rete8",rete8
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rete8sport",rete8sport
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="RTC 4 rete",RTC 4 rete
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="RTC calabriachannel",RTC calabriachannel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rti calabria",rti calabria
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rtm",rtm
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="RTR99TV",RTR99TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rtptv",rtptv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="2802" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:AF2:28E1:217C:5A0000:0:0:0:" tvg-name="RTTR",RTTR
+#EXTVLCOPT:program=2802
+http://10.6.228.1:8001/4097:0:19:AF2:28E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="rtv38",rtv38
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="1003" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:3EB:10E1:217C:5A0000:0:0:0:" tvg-name="Sesta Rete",Sesta Rete
+#EXTVLCOPT:program=1003
+http://10.6.228.1:8001/4097:0:16:3EB:10E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="trc",trc
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="6810" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:1A9A:68E1:217C:5A0000:0:0:0:" tvg-name="TRL",TRL
+#EXTVLCOPT:program=6810
+http://10.6.228.1:8001/4097:0:16:1A9A:68E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Boario",Tele Boario
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Friuli",Tele Friuli
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="teleliguriasud",teleliguriasud
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="teleuniverso",teleuniverso
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="telemajg",telemajg
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="lecronache Lucane",lecronache Lucane
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Antenna 3 ",Antenna 3 
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Antenna2",Antenna2
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="17002" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:426A:2B68:13E:820000:0:0:0:" tvg-name="telenova",telenova
+#EXTVLCOPT:program=17002
+http://10.6.228.1:8001/4097:0:19:426A:2B68:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="antenna tre veneto",antenna tre veneto
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="SI Lazio Style",SI Lazio Style
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="FIFA+",FIFA+
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="4631" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_1217_165_1_2_0_0_0.png" tvg-id="4097:0:1:1217:165:1:2:0:0:0:" tvg-name="FIFA+",FIFA+
+#EXTVLCOPT:program=4631
+http://10.6.228.1:8001/4097:0:1:1217:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="80" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/1_0_19_50_7918_217C_EEEE0000_0_0_0.png" tvg-id="4097:0:19:50:7918:217C:EEEE0000:0:0:0:" tvg-name="Sportitalia",Sportitalia
+#EXTVLCOPT:program=80
+http://10.6.228.1:8001/4097:0:19:50:7918:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3574" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:DF6:12C:110:EEEE0000:0:0:0:" tvg-name="SPORTITALIA SOLOCALCIO",SPORTITALIA SOLOCALCIO
+#EXTVLCOPT:program=3574
+http://10.6.228.1:8001/4097:0:16:DF6:12C:110:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="SI Primavera TV",SI Primavera TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TMW Radio TV",TMW Radio TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="etv Rete7",etv Rete7
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="telecitypiemonte",telecitypiemonte
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="288" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:120:1:1:EEEE0000:0:0:0:" tvg-name="telecitylombardia",telecitylombardia
+#EXTVLCOPT:program=288
+http://10.6.228.1:8001/4097:0:1:120:1:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1003" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:3EB:10E1:217C:5A0000:0:0:0:" tvg-name="Sesta Rete",Sesta Rete
+#EXTVLCOPT:program=1003
+http://10.6.228.1:8001/4097:0:16:3EB:10E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="etv marche",etv marche
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleRent 7Gold",TeleRent 7Gold
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telemax",Telemax
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TV33 Bolzano",TV33 Bolzano
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telenord",Telenord
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Primo Canale",Primo Canale
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TU Day",TU Day
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="16999" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:4267:2B68:13E:820000:0:0:0:" tvg-name="TeleTutto",TeleTutto
+#EXTVLCOPT:program=16999
+http://10.6.228.1:8001/4097:0:19:4267:2B68:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Umbria TV",Umbria TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Giocabet TV",Giocabet TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="SeilaTV Bergamo",SeilaTV Bergamo
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="16998" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:19:4266:2B68:13E:820000:0:0:0:" tvg-name="BERGAMO TV",BERGAMO TV
+#EXTVLCOPT:program=16998
+http://10.6.228.1:8001/4097:0:19:4266:2B68:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Espansione TV",Espansione TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Colore Salerno",Tele Colore Salerno
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Rete 8",Rete 8
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="tele pavia",tele pavia
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Canale 77",Canale 77
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telecittà",Telecittà
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Venezia",Tele Venezia
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="canale81 lazio",canale81 lazio
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Lazio Tv",Lazio Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="RTG Telegolfo",RTG Telegolfo
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="set tv",set tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="extra tv",extra tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Radio Orte",Tele Radio Orte
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="12 TV Parma",12 TV Parma
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="111 TV",111 TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="50 Canale",50 Canale
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="7 RadioVisione",7 RadioVisione
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="A.M. Terni",A.M. Terni
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Alpa uno",Alpa uno
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Ama TV",Ama TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Amaranto Channel",Amaranto Channel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Antenna 3 Toscana",Antenna 3 Toscana
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="BBC Drama Italy",BBC Drama Italy
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Bom Channel",Bom Channel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Business Channel",Business Channel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="C3T Canale 3 Toscana",C3T Canale 3 Toscana
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Calabria TV",Calabria TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="CalabriaUno TV",CalabriaUno TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Canale 2",Canale 2
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Canale 7 Puglia",Canale 7 Puglia
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Casa Sanremo Tv",Casa Sanremo Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Chili Indimenticabili (IT)",Chili Indimenticabili (IT)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Chili Velvet (IT)",Chili Velvet (IT)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Cilentano Tv",Cilentano Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Cittaceleste Tv",Cittaceleste Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Cittadella Tv",Cittadella Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Contrasto Tv",Contrasto Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Cremona 1",Cremona 1
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="DellaTV",DellaTV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Delta Tv",Delta Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="DI.TV 80",DI.TV 80
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="DI.TV 92",DI.TV 92
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Diciotto",Diciotto
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="DJOssoTV",DJOssoTV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Eccellenza Calabria",Eccellenza Calabria
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Emme Tv",Emme Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Entella TV",Entella TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Errevutì",Errevutì
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Esperia TV",Esperia TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Etna Espresso Channel",Etna Espresso Channel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="10315" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:284B:CA:55:300000:0:0:0:" tvg-name="ETV+",ETV+
+#EXTVLCOPT:program=10315
+http://10.6.228.1:8001/4097:0:1:284B:CA:55:300000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Fano Tv",Fano Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Firenze TV",Firenze TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Firenze Viola TV",Firenze Viola TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="FriuliTV24",FriuliTV24
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Globus Television",Globus Television
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="GRP VERATV",GRP VERATV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="4814" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:12CE:48E1:217C:5A0000:0:0:0:" tvg-name="Icaro TV",Icaro TV
+#EXTVLCOPT:program=4814
+http://10.6.228.1:8001/4097:0:1:12CE:48E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Idea Plus",Idea Plus
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Il Sole 24 Ore TV",Il Sole 24 Ore TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="In Sicilia TV",In Sicilia TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="InfoCilento",InfoCilento
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Italia 2",Italia 2
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Italia 9 Network",Italia 9 Network
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Italia Cable",Italia Cable
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="L'altro Corriere TV",L'altro Corriere TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La C Network",La C Network
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La C TV",La C TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La Grande Italia",La Grande Italia
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La Nuova Tv",La Nuova Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La TR3 Marsala",La TR3 Marsala
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="La Voce TV",La Voce TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Lab TV",Lab TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="8009" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/1_0_1_1F49_80E1_217C_EEEE0000_0_0_0.png" tvg-id="4097:0:19:1F49:80E1:217C:EEEE0000:0:0:0:" tvg-name="Lira TV",Lira TV
+#EXTVLCOPT:program=8009
+http://10.6.228.1:8001/4097:0:19:1F49:80E1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Manà Manà Sport",Manà Manà Sport
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="16990" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:425E:3DB8:13E:820000:0:0:0:" tvg-name="Med TV",Med TV
+#EXTVLCOPT:program=16990
+http://10.6.228.1:8001/4097:0:1:425E:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Mediterranea Tv",Mediterranea Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Nora TV",Nora TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="NTi Canale 93",NTi Canale 93
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Nuova Tv 1",Nuova Tv 1
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Nuova TV Nazionale (NTN)",Nuova TV Nazionale (NTN)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Plus TV Sport",Plus TV Sport
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="113" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:71:E:1C:1860000:0:0:0:" tvg-name="Prima TV",Prima TV
+#EXTVLCOPT:program=113
+http://10.6.228.1:8001/4097:0:1:71:E:1C:1860000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="RC88",RC88
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Rete7",Rete7
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="SI Solo Calcio",SI Solo Calcio
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Siena Tv",Siena Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="2160" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:870:3F2:39E:1860000:0:0:0:" tvg-name="Smile",Smile
+#EXTVLCOPT:program=2160
+http://10.6.228.1:8001/4097:0:1:870:3F2:39E:1860000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Sport Channel",Sport Channel
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Sportvl",Sportvl
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Stereo 5 TV",Stereo 5 TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Studio 7 TV",Studio 7 TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Taurianova TV",Taurianova TV
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tcf Tv",Tcf Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Bruzzano",Tele Bruzzano
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="8013" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/1_0_1_1F4D_80E1_217C_EEEE0000_0_0_0.png" tvg-id="4097:0:1:1F4D:80E1:217C:EEEE0000:0:0:0:" tvg-name="Tele Club Italia",Tele Club Italia
+#EXTVLCOPT:program=8013
+http://10.6.228.1:8001/4097:0:1:1F4D:80E1:217C:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Molise",Tele Molise
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Quattro",Tele Quattro
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Tutto 2",Tele Tutto 2
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Tutto 24",Tele Tutto 24
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele8",Tele8
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele90",Tele90
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleAbruzzo (Abruzzo Tv)",TeleAbruzzo (Abruzzo Tv)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleArena",TeleArena
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telecamaiore Nuovi Orizzonti",Telecamaiore Nuovi Orizzonti
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telecentro 2",Telecentro 2
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleCupole",TeleCupole
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telegela 647",Telegela 647
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleGenova",TeleGenova
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleGranducato",TeleGranducato
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Telelaser",Telelaser
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleLeonessa",TeleLeonessa
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="9908" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:16:26B4:A801:217C:DDE0000:0:0:0:" tvg-name="TeleSardegna",TeleSardegna
+#EXTVLCOPT:program=9908
+http://10.6.228.1:8001/4097:0:16:26B4:A801:217C:DDE0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleTibur",TeleTibur
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Teletrullo",Teletrullo
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Teletruria",Teletruria
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleTusciaSabina 2000",TeleTusciaSabina 2000
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Televallo Trapani",Televallo Trapani
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Ten",Ten
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tgs",Tgs
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TLT Molise",TLT Molise
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="4802" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:12C2:48E1:217C:5A0000:0:0:0:" tvg-name="TRC Bologna",TRC Bologna
+#EXTVLCOPT:program=4802
+http://10.6.228.1:8001/4097:0:1:12C2:48E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Trentino Tv",Trentino Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Trg",Trg
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TRIS",TRIS
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="7018" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:1B6A:70E1:217C:5A0000:0:0:0:" tvg-name="TRSP",TRSP
+#EXTVLCOPT:program=7018
+http://10.6.228.1:8001/4097:0:1:1B6A:70E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TSN (Lombardia)",TSN (Lombardia)
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tutto Tv",Tutto Tv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TV12",TV12
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TV9 Telemaremma",TV9 Telemaremma
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tva Vicenza",Tva Vicenza
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="7004" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:1B5C:70E1:217C:5A0000:0:0:0:" tvg-name="TVSEI",TVSEI
+#EXTVLCOPT:program=7004
+http://10.6.228.1:8001/4097:0:1:1B5C:70E1:217C:5A0000:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Video Calabria",Video Calabria
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Video Mediterraneo",Video Mediterraneo
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Video Regione",Video Regione
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Wltv",Wltv
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="320" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_140_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:140:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Notti di Passione",Pluto TV Notti di Passione
+#EXTVLCOPT:program=320
+http://10.6.228.1:8001/4097:0:1:140:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="280" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_118_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:118:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Eros",Pluto TV Eros
+#EXTVLCOPT:program=280
+http://10.6.228.1:8001/4097:0:1:118:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="4908" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_132C_165_1_2_0_0_0.png" tvg-id="4097:0:1:132C:165:1:2:0:0:0:" tvg-name="CineMalizia",CineMalizia
+#EXTVLCOPT:program=4908
+http://10.6.228.1:8001/4097:0:1:132C:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="270" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_10E_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:10E:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Cinema Italiano",Pluto TV Cinema Italiano
+#EXTVLCOPT:program=270
+http://10.6.228.1:8001/4097:0:1:10E:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="10549" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_2935_131_0_0_0_0_0.png" tvg-id="4097:0:1:2935:131:0:0:0:0:0:" tvg-name="Cinema Italiano",Cinema Italiano
+#EXTVLCOPT:program=10549
+http://10.6.228.1:8001/4097:0:1:2935:131:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="260" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_104_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:104:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Totò",Pluto TV Totò
+#EXTVLCOPT:program=260
+http://10.6.228.1:8001/4097:0:1:104:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="4870" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_1306_165_1_2_0_0_0.png" tvg-id="4097:0:1:1306:165:1:2:0:0:0:" tvg-name="Alberto Sordi & Co",Alberto Sordi & Co
+#EXTVLCOPT:program=4870
+http://10.6.228.1:8001/4097:0:1:1306:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="265" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_109_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:109:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Alberto Sordi",Pluto TV Alberto Sordi
+#EXTVLCOPT:program=265
+http://10.6.228.1:8001/4097:0:1:109:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="4001" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_FA1_165_1_2_0_0_0.png" tvg-id="4097:0:1:FA1:165:1:2:0:0:0:" tvg-name="CG Cine Mania",CG Cine Mania
+#EXTVLCOPT:program=4001
+http://10.6.228.1:8001/4097:0:1:FA1:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="240" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_F0_13_FF_CCCC0000_0_0_0.png" tvg-id="4097:0:1:F0:13:FF:CCCC0000:0:0:0:" tvg-name="Pluto TV Film Commedia",Pluto TV Film Commedia
+#EXTVLCOPT:program=240
+http://10.6.228.1:8001/4097:0:1:F0:13:FF:CCCC0000:0:0:0:
+#EXTINF:-1 tvg-chno="4913" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_1331_165_1_2_0_0_0.png" tvg-id="4097:0:1:1331:165:1:2:0:0:0:" tvg-name="Commedia - Rakuten TV",Commedia - Rakuten TV
+#EXTVLCOPT:program=4913
+http://10.6.228.1:8001/4097:0:1:1331:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="4871" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_1307_165_1_2_0_0_0.png" tvg-id="4097:0:1:1307:165:1:2:0:0:0:" tvg-name="CG Grandi Film",CG Grandi Film
+#EXTVLCOPT:program=4871
+http://10.6.228.1:8001/4097:0:1:1307:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="16776" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_4188_131_0_0_0_0_0.png" tvg-id="4097:0:1:4188:131:0:0:0:0:0:" tvg-name="CG Grandi Film",CG Grandi Film
+#EXTVLCOPT:program=16776
+http://10.6.228.1:8001/4097:0:1:4188:131:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="4877" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_130D_165_1_2_0_0_0.png" tvg-id="4097:0:1:130D:165:1:2:0:0:0:" tvg-name="Film Top - Rakuten TV",Film Top - Rakuten TV
+#EXTVLCOPT:program=4877
+http://10.6.228.1:8001/4097:0:1:130D:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="4076" tvg-logo="http://10.6.228.1/usr/share/enigma2/picon/4097_0_1_FEC_165_1_2_0_0_0.png" tvg-id="4097:0:1:FEC:165:1:2:0:0:0:" tvg-name="Mudù - Risate dal Sud",Mudù - Risate dal Sud
+#EXTVLCOPT:program=4076
+http://10.6.228.1:8001/4097:0:1:FEC:165:1:2:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="ETV+",ETV+
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="QSVS: Top Calcio 24",QSVS: Top Calcio 24
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="Tele Nostra",Tele Nostra
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleStabia",TeleStabia
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TeleTibur",TeleTibur
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TR Sport",TR Sport
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TRSP",TRSP
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TT-TELETUTTO BS",TT-TELETUTTO BS
+#EXTVLCOPT:program=0
+http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
