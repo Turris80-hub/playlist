@@ -744,3 +744,7 @@ http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
 #EXTINF:-1 tvg-chno="0" tvg-logo="http://10.6.228.1/images/default_picon.png" tvg-id="4097:0:1:0:0:0:0:0:0:0:" tvg-name="TT-TELETUTTO BS",TT-TELETUTTO BS
 #EXTVLCOPT:program=0
 http://10.6.228.1:8001/4097:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="7197" tvg-logo="" tvg-id="" tvg-name="GF Regia1",GF Regia1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="7198" tvg-logo="" tvg-id="" tvg-name="GF Regia2",GF Regia2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
