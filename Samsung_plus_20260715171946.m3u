@@ -1553,3 +1553,7 @@ https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 group-title="Veneto" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tva-vicenza.png",Tva Vicenza
 https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="GF" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" tvg-id="" tvg-name="GF Regia1",GF Regia1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+#EXTINF:-1 group-title="GF" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" tvg-id="" tvg-name="GF Regia2",GF Regia2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
